@@ -1,0 +1,6 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+args	/home/justin/rabbitmqtutorial/6-remoteprocedurecall/rpc_client.js	/^var args = process.argv.slice(2);$/;"	v	language:JavaScript
+const	/home/justin/rabbitmqtutorial/6-remoteprocedurecall/rpc_client.js	/^}$/;"	f	language:JavaScript
+const	/home/justin/rabbitmqtutorial/6-remoteprocedurecall/rpc_server.js	/^var amqp = require('amqplib\/callback_api');$/;"	f	language:JavaScript
+fibonacci	/home/justin/rabbitmqtutorial/6-remoteprocedurecall/rpc_server.js	/^const fibonacci = function fibonacci(n) {$/;"	f	language:JavaScript
+generateUuid	/home/justin/rabbitmqtutorial/6-remoteprocedurecall/rpc_client.js	/^const generateUuid = function generateUuid() {$/;"	f	language:JavaScript
